@@ -12,5 +12,21 @@
       "options": ["Watt", "Newton", "Joule", "Pascal"],
       "correct": "Newton"
     }
+  ],
+   "Chemistry": [
+    {
+      "question": "What is the SI unit of force?",
+      "options": ["Watt", "Newton", "Joule", "Pascal"],
+      "correct": "Newton"
+    }
+  ],
+   "English": [
+    {
+      "question": "What is the SI unit of force?",
+      "options": ["Watt", "Newton", "Joule", "Pascal"],
+      "correct": "Newton"
+    }
   ]
+  
+  
 }
