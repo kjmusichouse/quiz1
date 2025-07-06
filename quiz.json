@@ -1,0 +1,16 @@
+{
+  "Biology": [
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi Apparatus"],
+      "correct": "Mitochondria"
+    }
+  ],
+  "Physics": [
+    {
+      "question": "What is the SI unit of force?",
+      "options": ["Watt", "Newton", "Joule", "Pascal"],
+      "correct": "Newton"
+    }
+  ]
+}
