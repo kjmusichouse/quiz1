@@ -1,32 +1,52 @@
-{
-  "Biology": [
+[
     {
-      "question": "What is the powerhouse of the cell?",
-      "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi Apparatus"],
-      "correct": "Mitochondria"
-    }
-  ],
-  "Physics": [
+        "question": "What is the primary source of energy for Earth's greenhouse effect?",
+        "options": [
+            "Volcanic activity",
+            "Solar radiation",
+            "Earth's core heat",
+            "Human industrial activity"
+        ],
+        "correct": "Solar radiation"
+    },
     {
-      "question": "What is the SI unit of force?",
-      "options": ["Watt", "Newton", "Joule", "Pascal"],
-      "correct": "Newton"
-    }
-  ],
-   "Chemistry": [
+        "question": "Which gas is the most significant contributor to the greenhouse effect?",
+        "options": [
+            "Oxygen (O\u2082)",
+            "Nitrogen (N\u2082)",
+            "Carbon dioxide (CO\u2082)",
+            "Argon (Ar)"
+        ],
+        "correct": "Carbon dioxide (CO\u2082)"
+    },
     {
-      "question": "What is the SI unit of force?",
-      "options": ["Watt", "Newton", "Joule", "Pascal"],
-      "correct": "Newton"
-    }
-  ],
-   "English": [
+        "question": "How does the greenhouse effect contribute to Earth's climate?",
+        "options": [
+            "It cools the Earth's surface by reflecting sunlight.",
+            "It traps heat in the atmosphere, warming the planet.",
+            "It reduces the amount of solar radiation reaching Earth.",
+            "It prevents all heat from escaping into space."
+        ],
+        "correct": "It traps heat in the atmosphere, warming the planet."
+    },
     {
-      "question": "What is the SI unit of force?",
-      "options": ["Watt", "Newton", "Joule", "Pascal"],
-      "correct": "Newton"
+        "question": "Which human activity most significantly enhances the greenhouse effect?",
+        "options": [
+            "Deforestation",
+            "Recycling plastics",
+            "Using renewable energy",
+            "Planting trees"
+        ],
+        "correct": "Deforestation"
+    },
+    {
+        "question": "What is a potential consequence of an intensified greenhouse effect?",
+        "options": [
+            "Decreased global temperatures",
+            "Rising sea levels due to melting ice caps",
+            "Reduced carbon dioxide in the atmosphere",
+            "Increased ozone layer thickness"
+        ],
+        "correct": "Rising sea levels due to melting ice caps"
     }
-  ]
-  
-  
-}
+]
